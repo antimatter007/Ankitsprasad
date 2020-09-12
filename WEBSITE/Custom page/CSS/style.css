@@ -1,0 +1,40 @@
+.*{
+	font-family: 'Kumbh Sans', sans-serif;
+}
+
+
+body{
+	margin: 0;
+	padding: 0;
+	font-weight:bold;
+	background: url(b.jpg);
+font-family: 'Kumbh Sans', sans-serif;
+	background-position: center;
+	
+}
+
+.container{
+	height: 75vh;
+	width: 60%;
+	background: rgba(0,0,0,.6);
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%)
+
+}
+
+.container h1{
+	color: white;
+	margin-top: 20px;
+
+}
+.container li{
+	color: white;
+	margin-top: 50px;
+	font-size: large;
+	text-align: center;
+	justify-content: space-around;
+
+}
+
